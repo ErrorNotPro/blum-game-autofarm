@@ -6,7 +6,7 @@ import random
 
 import aiohttp
 
-jwt_bearer = ""
+jwt_bearer = "https://telegram.blum.codes/#tgWebAppData=query_id=AAEVr25wAgAAABWvbnDKn-Sb&user={%22id%22:6181269269,%22first_name%22:%22%E2%8F%A4%CD%9F%CD%9E%F0%9D%99%80%F0%9D%99%8D%F0%9D%99%8D%F0%9D%99%8A%F0%9D%99%8D%22,%22last_name%22:%22%22,%22username%22:%22ERR0R9%22,%22language_code%22:%22en%22,%22allows_write_to_pm%22:true}&auth_date=1726039790&hash=b4d2d82980eb0e1afdbc31c72f46a12630c44c99f42186c44fb1c55a50b4ee5f&tgWebAppVersion=7.6&tgWebAppPlatform=android&tgWebAppThemeParams={%22bg_color%22:%22#26293a%22,%22section_bg_color%22:%22#212332%22,%22secondary_bg_color%22:%22#191a26%22,%22text_color%22:%22#ffffff%22,%22hint_color%22:%22#838697%22,%22link_color%22:%22#7d95de%22,%22button_color%22:%22#768fe9%22,%22button_text_color%22:%22#ffffff%22,%22header_bg_color%22:%22#282938%22,%22accent_text_color%22:%22#869eed%22,%22section_header_text_color%22:%22#98aef8%22,%22subtitle_text_color%22:%22#7f838f%22,%22destructive_text_color%22:%22#ee686f%22,%22section_separator_color%22:%22#0f1118%22}"
 blum_points_to_claim = [250, 300]
 
 
